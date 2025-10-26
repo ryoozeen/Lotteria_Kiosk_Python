@@ -9,7 +9,7 @@
 
 ## 데모
 
-- 이미지 : <img width="959" height="1075" alt="image" src="https://github.com/user-attachments/assets/fcc28c4e-8e9c-49d4-81c6-ee585b58a513" />
+- 이미지 : <img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/fcc28c4e-8e9c-49d4-81c6-ee585b58a513" />
 - 영상 : https://www.youtube.com/watch?v=5L9AIwGvVmM
 
 ## 주요 기능
