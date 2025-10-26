@@ -3,18 +3,22 @@
 실제 키오스크 주문 흐름(메뉴선택·결제·영수증 출력)을 콘솔 기반으로 구현한 애플리케이션 입니다.
 매장/포장 선택, 카테고리별 메뉴 선택, 옵션/세트 구성, 결제 시뮬레이션, 영수증 출력까지 흐름을 제공합니다.
 
-## 담당
+---
 
+## 담당
 - 메뉴 선택 기능 구현, 문서 및 일일일지 작성
 
-## 데모
+---
 
+## 데모
 - 이미지
 
   <img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/fcc28c4e-8e9c-49d4-81c6-ee585b58a513" />
   
 - 영상
   https://www.youtube.com/watch?v=5L9AIwGvVmM
+
+---
 
 ## 주요 기능
 - 매장/포장 선택
@@ -25,12 +29,18 @@
 - 결제 시뮬레이션: 카드/간편결제/L.pay/교환권/페이코
 - 영수증/주문서 출력(대기번호/주문번호)
 
+---
+
 ## 기술 스택
 - Ubuntu, Python, VS Code
+
+---
 
 ## 요구사항
 - Python 3.10+ 권장
 - OS: Ubuntu/Windows(ConEmu, Git Bash 등 콘솔)
+
+---
 
 ## 사용법(간단)
 - 시작 후:
